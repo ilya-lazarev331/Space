@@ -1,0 +1,108 @@
+body{
+    background: url(cos.jpg);
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: 'Arial';
+    font-size: 15px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+h2{
+     text-align: center;
+}
+.head{
+    color: white;
+    padding:20 0 0 0;
+    box-sizing: border-box;
+    width: 1000px;
+    border-radius: 5px;
+    height: 180px;
+    opacity: 0.75;
+    background-color:#191970;
+    background-size: 100%;
+    font-size: 30px;
+}
+.main{
+    box-sizing: border-box;
+    width: 1000px;
+    height: 8220px;
+    margin: 50px auto;
+}
+.content{
+    padding: 0 10px;
+    box-sizing: border-box;
+    width: 800px;
+    height: 8070px;
+    margin: 10px 0 0 0px;
+    background-color:black;
+    float: left;
+    opacity: 0.90;
+}
+.side{
+    padding:20px 10px;
+    display: inline-block;
+    width: 190px;
+    height: 600px;
+    background-color:darkslategray;
+    box-sizing: border-box; 
+    border-radius: 5px;
+    margin: 10px 0 0 10px;
+    opacity: 0.70;
+}
+.footer{
+    text-align: left;
+    box-sizing: border-box; 
+    width: 1000px;
+    border-radius: 5px;
+    height: 100px;
+    opacity: 0.50;
+    background-color: #191970;
+    margin: 10px auto 10px;
+}
+.menu1{
+    border:2px solid whitesmoke;
+    font-weight: 500;
+    font-size:14px;
+    box-sizing: border-box;
+    width: 170px;
+    height:35px;
+    margin:10px auto;
+    text-align: center;
+    background: url(http://desktopwallpapers.org.ua/pic/201111/1280x800/desktopwallpapers.org.ua-8130.jpg);
+    border-radius: 5px;
+    color: whitesmoke;
+}
+.menu{
+    border:2px solid whitesmoke;
+    font-weight: 500;
+    font-size:14px;
+    padding-top:8px;
+    box-sizing: border-box;
+    width: 170px;
+    height:35px;
+    margin:10px auto;
+    text-align: center;
+    background: url(http://desktopwallpapers.org.ua/pic/201111/1280x800/desktopwallpapers.org.ua-8130.jpg);
+    border-radius: 5px;
+    color: whitesmoke;
+}
+.fixed {
+ position: fixed;
+ top: 0;
+}
+.image1 {
+    margin: 20px 15px 10px 10px;
+    width: 400px;
+    float: left;
+}
+.image{
+    margin: 0px 10px 10px 10px;
+    width: 400px;
+    float: left;
+}
+.image2{
+    margin: 15px 40px 0px 30px;
+    width: 700px;
+}
